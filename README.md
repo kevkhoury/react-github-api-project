@@ -6,7 +6,7 @@ Here's what the application will look like once you are done:
 
 ![react github project](http://i.imgur.com/cSckwUo.gif)
 
-The code you are given for the project implements the search form and the loading of basic user info. You'll have to do all the rest.
+The code you are given for the project implements the search form and the loading of basic user info. You'll have to do all the rest
 
 Let's take a look at the code that's already there. Many of the starter files should already be familiar to you if you completed [the previous workshop](https://github.com/ziad-saab/react-intro-workshop).
 
